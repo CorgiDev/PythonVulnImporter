@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CVE-Importer", "CVE-Importer\CVE-Importer.pyproj", "{DDDC6251-975F-48D2-B3A9-A8169FD0F69F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "VulnerabilitiesDB", "VulnerabilitiesDB\VulnerabilitiesDB.sqlproj", "{D7995508-FA5E-4E26-87ED-FE1F4F24391A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDC6251-975F-48D2-B3A9-A8169FD0F69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDC6251-975F-48D2-B3A9-A8169FD0F69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7995508-FA5E-4E26-87ED-FE1F4F24391A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7995508-FA5E-4E26-87ED-FE1F4F24391A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7995508-FA5E-4E26-87ED-FE1F4F24391A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D7995508-FA5E-4E26-87ED-FE1F4F24391A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7995508-FA5E-4E26-87ED-FE1F4F24391A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7995508-FA5E-4E26-87ED-FE1F4F24391A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD81A741-8C35-4923-A91E-ABE2BD2169FE}
+	EndGlobalSection
+EndGlobal
